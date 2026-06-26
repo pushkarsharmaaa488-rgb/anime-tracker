@@ -1,4 +1,4 @@
-const CACHE = 'anime-tracker-v1';
+const CACHE = 'anime-tracker-v5';
 const FILES = [
   './',
   './index.html',
